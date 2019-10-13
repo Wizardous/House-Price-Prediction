@@ -9,11 +9,11 @@ Link: https://towardsdatascience.com/create-a-model-to-predict-house-prices-usin
  Gradient Boosting Regression
 
 ## Modules Required:
-Sklearn
-Numpy
-Pandas
-MatplotLib
-PyQT5
+- Sklearn
+- Numpy
+- Pandas
+- MatplotLib
+- PyQT5
 
 ## Run Instruction:
 Run the main.py file directly to load the Analysis Frame. Predict Form can be opoend from the  menu Price>Predict.
